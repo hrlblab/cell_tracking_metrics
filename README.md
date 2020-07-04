@@ -2,7 +2,7 @@
 After we obtain the tracking results from our cell tracking program, we should have two parts of files.
 ## First part: .txt file
 The first part is a .txt file that contains each cell's birth, death and mitosis. 
-<img src="https://github.com/hrlblab/cell_tracking_metrics/blob/master/asset/mask.png" width="400"/>
+![](https://github.com/hrlblab/cell_tracking_metrics/blob/master/asset/res_track.png)
 ### .txt file data structure
 ```
 ${AOGM_EVA}
@@ -13,7 +13,7 @@ ${AOGM_EVA}
 ```
 ## Second part: .tif file
 The second part is consisted of several 16-bit .tif files that contain each cell's information corresponding to .txt file.
-<img src="assets/mask.png" width="400"/>
+![](https://github.com/hrlblab/cell_tracking_metrics/blob/master/asset/mask.png)
 ### .tif file data structure
 ```
 ${AOGM_EVA}
