@@ -37,7 +37,7 @@ ${AOGM_EVA}
                         └———man_track000-man_track0.., man_track.txt  
 ```
 ## Evaluation
-The software including introduction and routine can be downloaded here:[AOGM](https://drive.google.com/drive/folders/11tJ3qc2_D_R9ovCxJ6T8TbPkM1iLGXe1?usp=sharing)
+The software including introduction and routine can be downloaded here: [AOGM](https://drive.google.com/drive/folders/11tJ3qc2_D_R9ovCxJ6T8TbPkM1iLGXe1?usp=sharing)
 We can use Terminal to execute the software in cell trakcing challenge with command line like below(Linux):
 ```
 cd AOGM_EVA
